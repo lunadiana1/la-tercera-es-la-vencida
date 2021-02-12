@@ -5,12 +5,3 @@ ve espiritus chocarreros jajaj
 <<<<<<< HEAD
 no mee salio el rebese ajjaja
 mas linda es
-=======
-<<<<<<< HEAD
-
-
-master 1
-=======
-experimento 1
->>>>>>> b60b411 (experimento1)
->>>>>>> si
