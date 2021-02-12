@@ -2,5 +2,15 @@ hola soy luciano y esta diana a mi lado
 recien se cayo jaja estabamos comiendo y de la nada en el suelo
 mi chiquitita hermosa
 ve espiritus chocarreros jajaj
+<<<<<<< HEAD
 no mee salio el rebese ajjaja
 mas linda es
+=======
+<<<<<<< HEAD
+
+
+master 1
+=======
+experimento 1
+>>>>>>> b60b411 (experimento1)
+>>>>>>> si
